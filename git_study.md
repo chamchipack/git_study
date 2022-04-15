@@ -46,3 +46,6 @@
 - 브랜치 삭제
 #### git push origin 브랜치 이름 
 - 원격저장소에 로컬 브랜치 등록
+
+#### git push --set-upstream origin "브랜치 명"
+- 원격 저장소에 로컬 브랜치 이것도 등록이네...?
