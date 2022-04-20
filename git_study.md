@@ -49,3 +49,7 @@
 
 #### git push --set-upstream origin "브랜치 명"
 - 원격 저장소에 로컬 브랜치 이것도 등록이네...?
+#### git remote
+- 원격 저장소에 연결된 이름 확인
+#### git remote remove 원격저장소이름
+- 원격 저장소와 로컬이 연결된 것을 삭제
